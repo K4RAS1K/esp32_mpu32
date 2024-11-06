@@ -1,4 +1,4 @@
-# esp32_mpu32
+# esp32_mpu6050
 esp32 pico kit v1 and mpu6050
 
 mpu6050 datasheet: https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
